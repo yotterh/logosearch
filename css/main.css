@@ -1,0 +1,47 @@
+h1 {
+  margin: 25px;
+  font-size: 24px;
+}
+
+div.container {
+    max-width: 450px;
+    margin: 0 auto;
+}
+
+h1.title {
+    font-family: Lucida Handwriting;
+    color: red;
+    text-align: center;
+}
+
+div.form {
+    margin-top: 15px;
+    padding: 15px;
+    padding-top: 40px;
+    text-align: center;
+}
+
+.dropdown {
+    display: inline;
+    width: 45%;
+}
+
+div.button {
+    padding: 15px;
+}
+
+div.logos {
+    text-align: center;
+}
+
+img {
+    margin: 15px;
+}
+
+.grayscale {
+    filter: gray;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    opacity: 0.2;
+    -webkit-transition: all .6s ease;
+}
